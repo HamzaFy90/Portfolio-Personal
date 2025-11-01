@@ -790,4 +790,12 @@ li {
  width: 85px;
  object-fit: cover;
 }
+   .wrapper-header-banner-section>h1 {
+ font-size: 45px;
+ line-height: 64px;
+ color: var(--clr-primary);
+ font-weight: 600;
+ letter-spacing: 3px;
+}
+
 }
