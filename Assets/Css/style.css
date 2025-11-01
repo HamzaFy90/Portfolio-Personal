@@ -784,4 +784,10 @@ li {
 
 
 /* --- Responsive adjustments for contact section --- */
-@media (max-width: 650px) {}
+@media (max-width: 650px) {
+   
+.header-experience-sec>h1>img {
+ width: 85px;
+ object-fit: cover;
+}
+}
