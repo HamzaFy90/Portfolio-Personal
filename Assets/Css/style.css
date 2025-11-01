@@ -797,5 +797,7 @@ li {
  font-weight: 600;
  letter-spacing: 3px;
 }
-
+.wrapper-container-banner-section {
+   padding:3rem 1rem;
+}
 }
